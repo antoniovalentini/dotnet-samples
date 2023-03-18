@@ -1,6 +1,6 @@
 # dotnet-samples
 
-Small applications to showcase dotnet functionalities and third-party libraries usage.
+Tiny applications to showcase dotnet functionalities and third-party libraries usage.
 
 ## How to Dapper
 
