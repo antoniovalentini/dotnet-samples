@@ -98,6 +98,6 @@ if (AnsiConsole.Confirm("Delete all payments?"))
     await connection.ExecuteAsync(deleteCommand);
 }
 
-AnsiConsole.MarkupLine("\nBye 👋");
+AnsiConsole.MarkupLine("\nBye 👋 \n");
 
 internal record Payment(string Id, int Amount);
