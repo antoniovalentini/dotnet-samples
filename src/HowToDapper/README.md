@@ -1,5 +1,9 @@
 ﻿# How to Dapper
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/4293609/226140515-92ac0256-90d8-4f60-96bc-f00ccae8b626.png">
+</p>
+
 Simple console application to showcase how to use basic [Dapper](https://github.com/DapperLib/Dapper) extensions together with [Npgsql](https://github.com/npgsql/npgsql). More info here.
 
 Once running, the application will:
