@@ -23,7 +23,7 @@ To run the app, you need a running PostgreSQL server with the following connecti
 }
 ```
 
-If you use docker, just run the following command in a shell/prompt:
+If you use docker, just run the following command in a shell/prompt to spin a PostgreSQL instance:
 
 ```shell
 $ docker run -d -p 5432:5432 postgres
