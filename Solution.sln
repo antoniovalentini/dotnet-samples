@@ -14,6 +14,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToDapper", "src\HowToDapper\HowToDapper.csproj", "{EE6F5763-0EBD-4152-83DC-4776AB1EE450}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNetConfiguration", "DotNetConfiguration", "{F2179B66-13F8-4CE6-B8A6-B35264FB851D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetConfiguration.ConsoleApp", "src\DotNetConfiguration\DotNetConfiguration.ConsoleApp\DotNetConfiguration.ConsoleApp.csproj", "{DC15DAE4-81CF-4151-8D81-CA7775C839E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,11 +25,17 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EE6F5763-0EBD-4152-83DC-4776AB1EE450} = {337713A1-D6EF-4D54-8392-E1154D34C3FA}
+		{F2179B66-13F8-4CE6-B8A6-B35264FB851D} = {337713A1-D6EF-4D54-8392-E1154D34C3FA}
+		{DC15DAE4-81CF-4151-8D81-CA7775C839E8} = {F2179B66-13F8-4CE6-B8A6-B35264FB851D}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EE6F5763-0EBD-4152-83DC-4776AB1EE450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EE6F5763-0EBD-4152-83DC-4776AB1EE450}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE6F5763-0EBD-4152-83DC-4776AB1EE450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE6F5763-0EBD-4152-83DC-4776AB1EE450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC15DAE4-81CF-4151-8D81-CA7775C839E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC15DAE4-81CF-4151-8D81-CA7775C839E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC15DAE4-81CF-4151-8D81-CA7775C839E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC15DAE4-81CF-4151-8D81-CA7775C839E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
